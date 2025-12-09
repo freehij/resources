@@ -1,0 +1,22 @@
+{
+  "25w45a_client": "https://piston-data.mojang.com/v1/objects/26551033b7b935436f3407b85d14cac835e65640/client.jar",
+  "25w45a_server": "https://piston-data.mojang.com/v1/objects/2d3568cd561daad8e80fdc605e64270ae8dd8aba/server.jar",
+  "25w46a_client": "https://piston-data.mojang.com/v1/objects/2a1e9a8e09a6312adb91bf2a1b1188c57861ab65/client.jar",
+  "25w46a_server": "https://piston-data.mojang.com/v1/objects/c434d6c7c15a93a20698c5eb3624c51241bde69c/server.jar",
+  "1.21.11-pre1_client": "https://piston-data.mojang.com/v1/objects/37e6d1aa9d8ae06f3ea1d186b30d2abed784ab3f/client.jar",
+  "1.21.11-pre1_server": "https://piston-data.mojang.com/v1/objects/ffd25fe7eb268ec94a70ca0a672cadf7f62d20c9/server.jar",
+  "1.21.11-pre2_client": "https://piston-data.mojang.com/v1/objects/a25c031a36ae7a98b574194aecd9a9b910f24d85/client.jar",
+  "1.21.11-pre2_server": "https://piston-data.mojang.com/v1/objects/ec5d0361fb8f38ec6f6fd0162f6da0eef2c1a7d7/server.jar",
+  "1.21.11-pre3_client": "https://piston-data.mojang.com/v1/objects/5de1eb67d92ffdcf6c729b5f61a3ae780a89d548/client.jar",
+  "1.21.11-pre3_server": "https://piston-data.mojang.com/v1/objects/880c7007f5456c9bb30e170ea982d39df119a095/server.jar",
+  "1.21.11-pre4_client": "https://piston-data.mojang.com/v1/objects/db1f61654ad43f97fa3e3b5a3768f59f9b706108/client.jar",
+  "1.21.11-pre4_server": "https://piston-data.mojang.com/v1/objects/3ba399e6d77e8eab79f5563ab796244f8e8e0dec/server.jar",
+  "1.21.11-pre5_client": "https://piston-data.mojang.com/v1/objects/f0a4676ae06f10a3aea437ffa5ccf7e931cea2f7/client.jar",
+  "1.21.11-pre5_server": "https://piston-data.mojang.com/v1/objects/b37054cd7534c24f97c5fd86e5e4b4254979057d/server.jar",
+  "1.21.11-rc1_client": "https://piston-data.mojang.com/v1/objects/43ea30f537f06210f9930a264ecd1bf5e4bdfe54/client.jar",
+  "1.21.11-rc1_server": "https://piston-data.mojang.com/v1/objects/35c4782336506a849657638a168aa3e45181187f/server.jar",
+  "1.21.11-rc2_client": "https://piston-data.mojang.com/v1/objects/8e75db09feb89eec8ed7f2a2ae779b3fb1fb7f18/client.jar",
+  "1.21.11-rc2_server": "https://piston-data.mojang.com/v1/objects/205a55e13ce3104298dd84d1fa55bc524fb3ca51/server.jar",
+  "1.21.11-rc3_client": "https://piston-data.mojang.com/v1/objects/18d989b207cbe799656fb8f95fbf0914e2e2c195/client.jar",
+  "1.21.11-rc3_server": "https://piston-data.mojang.com/v1/objects/48f51df2f1f2cc618276fcaed6ecd15f0596067d/server.jar"
+}
