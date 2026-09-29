@@ -136,5 +136,7 @@
   "26.3_client": "https://piston-data.mojang.com/v1/objects/e877b6a07acd633fb3bb475002175cec036e7b87/client.jar",
   "26.3_server": "https://piston-data.mojang.com/v1/objects/33680f5f2ac32864d6d7cf5e56a705fdb3e05f4c/server.jar",
   "26.4-snapshot-1_client": "https://piston-data.mojang.com/v1/objects/99dea8ec5ae3c5adc7d246061a90960e7d8441c3/client.jar",
-  "26.4-snapshot-1_server": "https://piston-data.mojang.com/v1/objects/1c5ef8ced87763278a406812e7f0932384c3bb44/server.jar"
+  "26.4-snapshot-1_server": "https://piston-data.mojang.com/v1/objects/1c5ef8ced87763278a406812e7f0932384c3bb44/server.jar",
+  "26.4-snapshot-2_client": "https://piston-data.mojang.com/v1/objects/57390e151851510972714846a752c6b8307f7fae/client.jar",
+  "26.4-snapshot-2_server": "https://piston-data.mojang.com/v1/objects/e6cac6e2fa35d5847e60dede721ec75f7a28c34d/server.jar"
 }
